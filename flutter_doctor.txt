@@ -1,0 +1,6 @@
+Downloading Material fonts...                                       4.1s
+Downloading Gradle Wrapper...                                      245ms
+Downloading package sky_engine...                                  25.0s
+Downloading package flutter_gpu...                               1,255ms
+Downloading flutter_patched_sdk tools...                           74.3s
+Downloading flutter_patched_sdk_product tools...                
